@@ -9,6 +9,7 @@ body {
 h1 {
   text-align: center;
   color: orange;
+  border: 5px dotted orange;
 }
 
 h2 {
